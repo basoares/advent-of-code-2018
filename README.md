@@ -10,3 +10,4 @@ This repo is my personal attempt at solving the [Advent of Code 2018](http://adv
 | --------|-----------------------------------------------|--------------------------------------------- |
 |    1    | <title>                                       |  [\[Code\]](https://github.com/basoares/advent-of-code-2017) [\[AoC\]](http://adventofcode.com/2018/day/1) |
 
+Copyright &copy; 2018 by B. Soares.
