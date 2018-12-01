@@ -1,0 +1,8 @@
+*~
+*.pyc
+.idea
+iterate.dat
+token.txt
+.git_
+.git_save
+token.txt_
