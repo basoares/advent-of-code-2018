@@ -4,7 +4,12 @@
 
 [Advent of Code](http://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language. 
 
-This repo is my personal attempt at solving the [Advent of Code 2018](http://adventofcode.com) set of problems using Python.
+This repo is my personal attempt at solving the [Advent of Code 2018](http://adventofcode.com) set of problems using Python. 
+
+It is the first time I participate and my objective is to try and solve each puzzle on the day it is released, while also updating this notebook with the first solution I came up with. The solutions shown here are very close to the actual code used for the submissions. Sometimes I go back and might refactor for clarity or code efficiency reasons. 
+
+If you are interested only on the code, below are the links to the solutions.
+
 
 |   Day   | Title                                         |  Links                                       |
 | --------|-----------------------------------------------|--------------------------------------------- |
