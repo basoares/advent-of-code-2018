@@ -7,7 +7,6 @@ Advent of Code - 2018
 Released under the MIT License <http://opensource.org/licenses/mit-license.php>
 
 '''
-__version__ = '0.1'
 
 import os
 from itertools import groupby
