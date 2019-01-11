@@ -11,37 +11,37 @@ Released under the MIT License <http://opensource.org/licenses/mit-license.php>
 import os
 from itertools import cycle
 
-def part1(frequencyChanges, currentFrequency=0):
-    for frq in frequencyChanges:
+def part1(frequency_changes, current_frequency=0):
+    for frq in frequency_changes:
         try:
            chg = int(frq)
-           currentFrequency += chg
+           current_frequency += chg
         except ValueError:
             print('{} is not a number!'.format(frq))
 
-    return currentFrequency
+    return current_frequency
 
-def part2(frequencyChanges, currentFrequency=0):
+def part2(frequency_changes, current_frequency=0):
 # holds all the frequencies reached 
-    frequenciesReached = set()
+    frequencies_reached = set()
 
-    for frq in cycle(frequencyChanges):
+    for frq in cycle(frequency_changes):
             try:
                 chg = int(frq)
-                currentFrequency += chg
-                if currentFrequency in frequenciesReached:
+                current_frequency += chg
+                if current_frequency in frequencies_reached:
                     break;
                 else:
-                    frequenciesReached.add(currentFrequency)
+                    frequencies_reached.add(current_frequency)
             except ValueError:
                 print('{} is not a number'.format(frq))
 
-    return currentFrequency
+    return current_frequency
 
 
 
 if __name__ == '__main__':
-    with open('../input/d1.txt', mode='r') as f:
+    with open('../input/d01.txt', mode='r') as f:
         _input = f.readlines()
 
     print('Part One: {}'.format(part1(_input)))
