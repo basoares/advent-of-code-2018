@@ -20,4 +20,7 @@ If you are interested only on the code, below are the links to the solutions.
 |    3    | No Matter How You Slice It                    |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day03) [\[AoC\]](http://adventofcode.com/2018/day/3) |
 |    4    | Repose Record                                 |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day04) [\[AoC\]](http://adventofcode.com/2018/day/4) |
 |    5    | Alchemical Reduction                          |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day05) [\[AoC\]](http://adventofcode.com/2018/day/5) |
+|    6    | Chronal Coordinates                           |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day06) [\[AoC\]](http://adventofcode.com/2018/day/6) |
+|    7    | The Sum of Its Parts                          |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day07) [\[AoC\]](http://adventofcode.com/2018/day/7) |
+|    8    | Memory Maneuver                               |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day08) [\[AoC\]](http://adventofcode.com/2018/day/8) |
 
