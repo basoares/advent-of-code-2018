@@ -23,4 +23,8 @@ If you are interested only on the code, below are the links to the solutions.
 |    6    | Chronal Coordinates                           |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day06) [\[AoC\]](http://adventofcode.com/2018/day/6) |
 |    7    | The Sum of Its Parts                          |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day07) [\[AoC\]](http://adventofcode.com/2018/day/7) |
 |    8    | Memory Maneuver                               |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day08) [\[AoC\]](http://adventofcode.com/2018/day/8) |
+|    9    | Marble Mania                                  |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day09) [\[AoC\]](http://adventofcode.com/2018/day/9) |
+|   10    | The Stars Align                               |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day10) [\[AoC\]](http://adventofcode.com/2018/day/10) |
+|   11    | Chronal Charge                                |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day11) [\[AoC\]](http://adventofcode.com/2018/day/11) |
+|   12    | Subterranean Sustainability                   |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day12) [\[AoC\]](http://adventofcode.com/2018/day/12) |
 
