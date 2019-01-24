@@ -15,7 +15,7 @@ def next_generation(state, rules, zero_idx):
     zero_idx += 3
     new_state = state[:]
     for p in range(2, len(state) - 2):
-        new_state[p] = rules.get(''.join(state[p-2:p+3]), '.')
+        new_state[p] = rules[''.join(state[p-2:p+3])]
 
     while new_state[0] == '.':
         zero_idx -= 1
@@ -28,10 +28,10 @@ def next_generation(state, rules, zero_idx):
 def part1(_input):
     state = _input[0][len('initial state: '):]
 
-    rules = defaultdict()
+    rules = defaultdict(lambda : ".")
     for rule in _input[2:]:
-        words = rule.split(' => ')
-        rules[words[0]] = words[1]
+        r, result = rule.split(' => ')
+        rules[r] = result
 
     zero_idx = 0
     for _ in range(20):
@@ -42,10 +42,10 @@ def part1(_input):
 def part2(_input):
     state = _input[0][len('initial state: '):]
 
-    rules = defaultdict()
+    rules = defaultdict(lambda : ".")
     for rule in _input[2:]:
-        words = rule.split(' => ')
-        rules[words[0]] = words[1]
+        r, result = rule.split(' => ')
+        rules[r] = result
 
     zero_idx = 0
     totals = []
