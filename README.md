@@ -6,7 +6,7 @@
 
 This repo is my personal attempt at solving the [Advent of Code 2018](http://adventofcode.com/2018) set of problems using Python. 
 
-It is the first time I participate and my objective is to try and solve each puzzle on the day it is released, while also updating [this](https://github.com/basoares/advent-of-code-2018/tree/master/adventofcode2018.ipynb) notebook with the details of the first solution I came up with. The solutions shown in the notebook are very close to the actual code used for the submissions. I sometimes go back and refactor the code for clarity or code efficiency reasons or I adapt my solution if I find some interesting alternative on [r/adventofcode](https://www.reddit.com/r/adventofcode). The refactored version of the code can be found in the respective directory for each day (links below).
+It is the first time I participate and my objective is to try and solve each puzzle on the day it is released, while also updating [this](https://github.com/basoares/advent-of-code-2018/tree/master/adventofcode2018.ipynb) notebook with the details of the solutions. The solutions shown in the notebook are very close to the actual code used for the submissions. I sometimes go back and refactor the code for clarity or code efficiency reasons or I adapt my solution if I find some interesting alternative on [r/adventofcode](https://www.reddit.com/r/adventofcode). The refactored version of the code can be found in the respective directory for each day (links below).
 
 There is a contest to see who can solve all the puzzles the fastest. I am just starting to learn Python, so I am not expecting to be competitive at all.
 
@@ -27,4 +27,11 @@ If you are interested only on the code, below are the links to the solutions.
 |   10    | The Stars Align                               |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day10) [\[AoC\]](http://adventofcode.com/2018/day/10) |
 |   11    | Chronal Charge                                |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day11) [\[AoC\]](http://adventofcode.com/2018/day/11) |
 |   12    | Subterranean Sustainability                   |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day12) [\[AoC\]](http://adventofcode.com/2018/day/12) |
+|   13    | Mine Cart Madness                             |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day13) [\[AoC\]](http://adventofcode.com/2018/day/13) |
+|   14    | Chocolate Charts                              |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day14) [\[AoC\]](http://adventofcode.com/2018/day/14) |
+|   15    | Beverage Bandits                              |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day15) [\[AoC\]](http://adventofcode.com/2018/day/15) |
+|   16    | Chronal Classification                        |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day16) [\[AoC\]](http://adventofcode.com/2018/day/16) |
+|   17    | Reservoir Research                            |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day17) [\[AoC\]](http://adventofcode.com/2018/day/17) |
+|   18    | Settlers of the North Pole                    |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day18) [\[AoC\]](http://adventofcode.com/2018/day/18) |
+|   19    | Subterranean Sustainability                   |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day12) [\[AoC\]](http://adventofcode.com/2018/day/12) |
 
