@@ -10,17 +10,20 @@ Released under the MIT License <http://opensource.org/licenses/mit-license.php>
 
 from collections import defaultdict, Counter
 from itertools import count, product
+import tqdm
 
-def adjacent_acres(lumber_collection, acre):
-    return [lumber_collection[(acre[0]+x, acre[1]+y)] for (x, y) in 
-            product((-1, 0, 1), (-1, 0, 1)) if x or y]
 
 def next_minute(lumber_collection, w, h):
     res = defaultdict(lambda : "")
+
+    def adjacent_acres(acre):
+        return [lumber_collection[(acre[0]+x, acre[1]+y)] for (x, y) in 
+                product((-1, 0, 1), (-1, 0, 1)) if x or y]
+
     for y in range(h):
         for x in range(w):
             c = lumber_collection[(x, y)]
-            counts = Counter(adjacent_acres(lumber_collection, (x, y)))
+            counts = Counter(adjacent_acres((x, y)))
             if c == '.':
                 if counts['|'] >= 3:
                     c = '|'
@@ -62,7 +65,7 @@ def part2(area, w=50, h=50):
 
     totals = defaultdict(lambda : 0)
     prev = 0
-    for i in count(1):
+    for i in tqdm.trange(1, 10000):
         lumber_collection = next_minute(lumber_collection, w, h)
         counts = Counter(lumber_collection.values())
         total = counts['|'] * counts['#']
