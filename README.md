@@ -33,5 +33,11 @@ If you are interested only on the code, below are the links to the solutions.
 |   16    | Chronal Classification                        |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day16) [\[AoC\]](http://adventofcode.com/2018/day/16) |
 |   17    | Reservoir Research                            |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day17) [\[AoC\]](http://adventofcode.com/2018/day/17) |
 |   18    | Settlers of the North Pole                    |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day18) [\[AoC\]](http://adventofcode.com/2018/day/18) |
-|   19    | Subterranean Sustainability                   |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day12) [\[AoC\]](http://adventofcode.com/2018/day/12) |
+|   19    | Subterranean Sustainability                   |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day19) [\[AoC\]](http://adventofcode.com/2018/day/19) |
+|   20    | A Regular Map                                 |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day20) [\[AoC\]](http://adventofcode.com/2018/day/20) |
+|   21    | Chronal Conversion                            |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day21) [\[AoC\]](http://adventofcode.com/2018/day/21) |
+|   22    | Mode Maze                                     |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day22) [\[AoC\]](http://adventofcode.com/2018/day/22) |
+|   23    | Experimental Emergency Teleportation          |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day23) [\[AoC\]](http://adventofcode.com/2018/day/23) |
+|   24    | Immune System Simulator 20XX                  |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day24) [\[AoC\]](http://adventofcode.com/2018/day/24) |
+|   25    | Four-Dimensional Adventure                    |  [\[Code\]](https://github.com/basoares/advent-of-code-2018/tree/master/day25) [\[AoC\]](http://adventofcode.com/2018/day/25) |
 
