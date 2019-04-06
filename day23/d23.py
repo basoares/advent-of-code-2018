@@ -2,7 +2,7 @@
 
 Advent of Code - 2018
 
---- Day 23: Experimental Emergency Telportantion ---
+--- Day 23: Experimental Emergency Teleportation ---
 
 Released under the MIT License <http://opensource.org/licenses/mit-license.php>
 
